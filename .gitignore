@@ -1,0 +1,9 @@
+.clasp.json
+
+# dependencies
+/node_modules
+
+# IDE config
+.vscode
+
+npm-debug.log*
