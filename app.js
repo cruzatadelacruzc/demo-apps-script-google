@@ -1,1 +1,3 @@
-console.log("Hola mundo 🤭")
+function doGet() {
+    return HtmlService.createTemplateFromFile('html/index').evaluate();
+}
